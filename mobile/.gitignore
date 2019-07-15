@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Mac misc files
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+
+# Cordova
+/platforms
+/plugins
+
+# Cscope files
+cscope.*
